@@ -31,7 +31,7 @@ FPF provides:
 
 | Field | Value |
 |-------|-------|
-| **Path** | `~/IWE/FPF/FPF-Spec.md` |
+| **Path** | `~/IWE/FPF/FPF-Spec.txt` |
 | **Repository** | https://github.com/ailev/FPF |
 | **Update** | `cd ~/IWE/FPF && git pull` |
 
