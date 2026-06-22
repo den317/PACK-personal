@@ -72,7 +72,7 @@ This pack captures knowledge about **characteristics and states of creator** as 
 
 | Section | Item Count | Status |
 |---------|------------|--------|
-| Distinctions | 135 | active |
+| Distinctions | 140 | active |
 | Principles | 43 | active |
 | Roles | 7 | active (+1 PD.ROLE.006 phys-program, 2026-05-31) |
 | Objects of Attention | 6 | active |
@@ -81,7 +81,7 @@ This pack captures knowledge about **characteristics and states of creator** as 
 | States | 8 | active |
 | Methods | 16 | active (+3 PD.METHOD.046/047/048 phys-program, 2026-05-31) |
 | Work Products | 18 | active |
-| Failure Modes | 60 | active |
+| Failure Modes | 64 | active |
 | SoTA Annotations | 1 | active |
 | Maps | 1 | active |
 | Architecture | 1 | active |
@@ -220,6 +220,10 @@ This pack captures knowledge about **characteristics and states of creator** as 
 | PD.FAIL.075 | Magic Rabbits — Re-engineering by Intuition with Hidden Workings | FAIL | Failure mode из BORO Methodology. | active |
 | PD.FAIL.076 | Estimation by Inherent Complexity (Broken Under Generalisation) | FAIL | Failure mode из BORO Methodology. | active |
 | PD.FAIL.077 | Перечисление методов вместо архитектурной концепции | FAIL | Архитектурный концептуальный документ содержит перечисление компонентов вместо принципов структуры. | active |
+| PD.FAIL.078 | Finite Career Project Error | FAIL | Восприятие карьеры как конечного проекта с финальной сдачей, а не как непрерывной системы воспроизводства компетентности. | active |
+| PD.FAIL.079 | Sprint to Retirement (Deferred Life Syndrome) | FAIL | Установка «сейчас надо потерпеть, а после пенсии начнётся настоящая жизнь». | active |
+| PD.FAIL.080 | Competence Maximalism | FAIL | Установка «если не буду постоянно усиливаться и изучать всё подряд — выпаду из профессии». | active |
+| PD.FAIL.081 | Sustainable Pace as Performance Project | FAIL | Устойчивая скорость ошибочно превращается в новый проект эффективности: героически «правильно отдыхать» с тем же внутренним насилием. | active |
 | PD.FORM.001 | Development Programs | FORM | Формализация трёх уровней систематического развития: личного, рабочего и исследовательского | active |
 | PD.FORM.002 | Development Directions | FORM | Шесть направлений развития: мировоззрение, мастерство, ограничения, экзокортекс, культура, организм | active |
 | PD.FORM.003 | Learner Maturity | FORM | Пять ступеней зрелости ученика: от случайного к проактивному саморазвитию с полной систематизацией | active |
